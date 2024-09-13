@@ -1,57 +1,51 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
 
-body{
-    background-color: #6EACDA;
+body {
+  background-color: #6eacda;
 }
-.body{
-    
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 }
-.container{
-    background-color: #021526;
-    height: 75vmin;
-    width: 75vmin;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 2vmin;
-
-
-
+.container {
+  background-color: #021526;
+  height: 75vmin;
+  width: 75vmin;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2vmin;
 }
 
-.toe{
-    background-color:#E2E2B6;
-    height: 30%;
-    width: 30%;
-    font-size: 9vmin;
-    color: rgb(145, 42, 42);
+.toe {
+  background-color: #e2e2b6;
+  height: 30%;
+  width: 30%;
+  font-size: 9vmin;
+  color: rgb(145, 42, 42);
 }
 
-.reset-button{
-    display: flex;
-    justify-content: center;
+.reset-button {
+  display: flex;
+  justify-content: center;
 }
-.reset{
-    padding: 2vmin;
-    font-size: 3vmin;
-    position: relative;
-    
-    top: 20px;
-    border-radius: 10%;}
+.reset {
+  padding: 2vmin;
+  font-size: 3vmin;
+  position: relative;
 
-.heading{
-    display: flex;
-    justify-content: center;
-    margin-bottom: 50px;
-    
+  top: 20px;
+  border-radius: 10%;
+}
 
+.heading {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
 }
